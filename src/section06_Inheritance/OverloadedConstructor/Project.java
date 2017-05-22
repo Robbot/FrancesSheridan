@@ -1,4 +1,4 @@
-package overloadedConstructor;
+package section06_Inheritance.OverloadedConstructor;
 
 import java.util.Date;
 

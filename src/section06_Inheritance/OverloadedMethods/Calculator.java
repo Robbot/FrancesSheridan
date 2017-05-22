@@ -1,4 +1,4 @@
-package overloadedMethods;
+package section06_Inheritance.OverloadedMethods;
 
 public class Calculator {
 	private double ans;
