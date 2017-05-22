@@ -1,4 +1,4 @@
-package basicguiapplication;
+package section07_SwingAndEventHandling.BasicGuiApplication;
 import java.awt.Color;
 
 import javax.swing.*;

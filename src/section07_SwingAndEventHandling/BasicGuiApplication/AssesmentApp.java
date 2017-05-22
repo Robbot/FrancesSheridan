@@ -1,4 +1,4 @@
-package basicguiapplication;
+package section07_SwingAndEventHandling.BasicGuiApplication;
 
 public class AssesmentApp {
 
